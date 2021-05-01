@@ -1,5 +1,5 @@
 # ncointtest_matlab
-ncointtest is a MATLAB implementation of the non-coointegration test, as developed by Souza et al (2018). The function takes five arguments:x and y, which two time series, without missings, 
+ncointtest is a MATLAB implementation of the non-coointegration test, as developed by Souza et al (2018). The function takes five arguments:x and y, which are two time series, without missings, 
 d, which is the order of integration of the two time series; b, which is the bandwidth in the test and it is a percentage of the number of observations, with n^b being the number of observations used in the test;
 and r, which is the number of neighboring frequencies to be utilized in estimating the density spectral matrix.. 
 
